@@ -1,2 +1,1 @@
-# learn
-The project for learning.
+用于学习过程中的实践
